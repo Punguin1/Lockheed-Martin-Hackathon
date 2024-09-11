@@ -1,0 +1,5 @@
+best one
+batch_size = 32
+epoch = 10
+learning_rate 0.0015
+f1 = 0.827
